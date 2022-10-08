@@ -1,0 +1,5 @@
+fastapi==0.85.0
+numpy==1.23.3
+opencv-python==4.6.0.66
+requests==2.28.1
+uvicorn==0.18.3
